@@ -35,9 +35,8 @@ python height.py
 
 ## Authors
 
-* **Yang Liu** - *University of Missouri, Columbia MO, USA*
-* **Email** - *ylmk2@mail.missouri.edu* 
-* **Email** - *yanglou1990@gmail.com*
+* **Shuai Zeng** - *University of Missouri, Columbia MO, USA*
+* **Email** - *zengs@umsysten.edu* 
 
 
 ## License
